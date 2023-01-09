@@ -1,4 +1,4 @@
-# Endpoint-Security-Using-open-source-ELK-Stack-A-Cost-Effective-Solution-for-Small--to-Medium-Sized-
+# Endpoint-Security-Using-open-source-ELK-with-fleets
 Installation of ELK with Elastic Agent Fleet to effectively integrate endpoints for malware detection rather than to rely on Beats such as Heartbeat, Metricbeat, and Filebeat which have to be configured separately.
 There are several steps that companies can take to implement security using the ELK Stack:
 Collect and normalise endpoint data: The first step in threat hunting is to gather data from all of the company's endpoints. This includes logs, system information, and any other relevant data. It is important to normalise this data so it can be easily searched and analysed.
